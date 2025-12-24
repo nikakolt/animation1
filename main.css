@@ -1269,6 +1269,7 @@ background-color: #B44B47;
   margin-top: 30%;
 margin-left: 20%;
 animation: wobble-ver-left 1.5s infinite both;
+transition: opacity 0.8s ease;
 }
 
 .bb:hover{

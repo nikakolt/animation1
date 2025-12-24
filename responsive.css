@@ -1285,6 +1285,7 @@ margin-top: -0.5%;
 margin-left: 20%;
 animation: wobble-ver-left 1.5s infinite both;
 transform: scale(0.5);
+transition: opacity 0.8s ease;
 }
 
 .bb:hover{
@@ -3372,6 +3373,7 @@ margin-top: 255%;
 margin-left: 20%;
 animation: wobble-ver-left 1.5s infinite both;
 transform: scale(0.5);
+transition: opacity 0.8s ease;
 }
 
 .bb:hover{
@@ -5446,6 +5448,7 @@ background-color: #B44B47;
 margin-left: 20%;
 animation: wobble-ver-left 1.5s infinite both;
 width: 50%;
+transition: opacity 0.8s ease;
 }
 
 .bb:hover{
@@ -7513,6 +7516,7 @@ background-color: #B44B47;
 margin-left: 20%;
 animation: wobble-ver-left 1.5s infinite both;
 width: 50%;
+transition: opacity 0.8s ease;
 }
 
 .bb:hover{
@@ -9567,6 +9571,7 @@ background-color: #B44B47;
 margin-left: 20%;
 animation: wobble-ver-left 1.5s infinite both;
 width: 50%;
+transition: opacity 0.8s ease;
 }
 
 .bb:hover{
@@ -11608,6 +11613,7 @@ background-color: #B44B47;
 margin-left: 20%;
 animation: wobble-ver-left 1.5s infinite both;
 width: 50%;
+transition: opacity 0.8s ease;
 }
 
 .bb:hover{
@@ -13665,6 +13671,7 @@ margin-top: 255%;
 margin-left: 20%;
 animation: wobble-ver-left 1.5s infinite both;
 transform: scale(0.5);
+transition: opacity 0.8s ease;
 }
 
 .bb:hover{
