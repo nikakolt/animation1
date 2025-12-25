@@ -2223,7 +2223,7 @@ margin-top: 40%;
   position: absolute;
   object-fit: contain;
   transition: opacity 0.1s ease; 
-  transform: scale(0.3);
+
 }
 
 .b3{
@@ -2234,6 +2234,7 @@ margin-top: 40%;
 .bc3{
   opacity: 0;
   z-index: 1;
+  width: 30%;
 }
 .bu3:hover .b3{
   opacity: 0;
@@ -2262,7 +2263,7 @@ margin-top: 40%;
   position: absolute;
   object-fit: contain;
   transition: opacity 0.1s ease; 
-  transform: scale(0.3);
+
 }
 
 .b4{
