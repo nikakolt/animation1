@@ -2223,7 +2223,7 @@ margin-top: 40%;
   position: absolute;
   object-fit: contain;
   transition: opacity 0.1s ease; 
-
+  transform: scale(0.3);
 }
 
 .b3{
@@ -2263,7 +2263,7 @@ margin-top: 40%;
   position: absolute;
   object-fit: contain;
   transition: opacity 0.1s ease; 
-
+  transform: scale(0.3);
 }
 
 .b4{
